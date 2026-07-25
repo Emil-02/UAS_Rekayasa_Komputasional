@@ -7,7 +7,7 @@ Proyek ini bertujuan untuk melakukan analisis sentimen terhadap ulasan pengguna 
 - **`Scraping/`**: Berisi skrip Python (`scrape_dana_reviews.py`) untuk mengambil ulasan dari Google Play Store, serta dataset hasil scraping (`dana_reviews_negatif.csv`, `dana_reviews_positif.csv`, `dana_reviews_semua.csv`).
 - **`SVM_Gabungan.ipynb`**: Jupyter Notebook yang berisi alur lengkap prapemrosesan teks (text preprocessing), ekstraksi fitur (TF-IDF), pelatihan model Support Vector Machine (SVM), dan evaluasi model.
 - **`Laporan_kelompok4_KelasF.docx`**: Laporan lengkap mengenai metodologi, analisis, dan hasil dari penelitian.
-- **`flowchart_metodologi.png`** & **`grafik_perbandingan.png`**: Visualisasi alur kerja dan hasil evaluasi.
+- **`grafik_perbandingan.png`**: Visualisasi alur kerja dan hasil evaluasi.
 - **`sampel_untuk_validasi_manual.csv`**: Data sampel yang digunakan untuk keperluan validasi model secara manual.
 
 ## Metodologi
